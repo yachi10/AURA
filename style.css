@@ -1,0 +1,197 @@
+body {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0; 
+}
+
+  
+  /* Style the header */
+  .header {
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    color:#ff8000;
+    text-shadow: 1px 2px 3px  #4d2600;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+  #s1 {
+    height:500px;
+  }
+  #s2 {
+    height:500px;
+  }
+  #s3 {
+    height:500px;
+  }
+  #s4 {
+    height:500px;
+  }
+  aside {
+    width:45%;
+    margin-bottom: -40px;
+    float: right;
+  }
+  .aside1 {
+    width:60%;
+    margin-bottom: 100px;
+    float: left;
+  }
+  .aside2 {
+    width:60%;
+    margin-bottom: 60px;
+    float: right;
+  }
+  .aside3 {
+    width:60%;
+    margin-bottom: 60px;
+    float: left;
+  }
+  .aside4 {
+    width:60%;
+    margin-bottom: 60px;
+    float: right;
+  }
+  .aside5 {
+    width:60%;
+    margin-bottom: 60px;
+    float: left;
+  }
+  .aside6 {
+    width:60%;
+    margin-bottom: 60px;
+    float: right;
+  }
+
+  .img2{
+    margin-left:100px;
+    margin-top:-170px;
+  }
+
+  .img1{
+    margin-right:50px;
+    margin-top:-140px;
+  }
+  .img3{
+    margin-left:250px;
+    margin-top:-280px;
+  }
+  .img4{
+    margin-left:100px;
+    margin-top:-200px;
+    width:300px;
+  }
+  .img5{
+    margin-left:250px;
+    margin-top:-230px;
+  }
+  .img6{
+    margin-left:100px;
+    margin-top:-170px;
+    width:400px;
+  }
+  .img7{
+    margin-left:250px;
+    margin-top:-220px;
+  }
+
+  .container1
+  {
+    margin-left:100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+  }
+  .container2
+  {
+    margin-right:100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+  }
+  .container3
+  {
+    margin-left:100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 30px;
+  }
+  .container4
+  {
+    margin-right:100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+  }
+  .container5
+  {
+    margin-left:100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+  }
+
+  .container6
+  {
+    margin-right:100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+  }
+  .container7
+  {
+    margin-left:100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+  }
+  
+
+  .topnav {
+  overflow: hidden;
+  background-color: #333333;
+  position: relative;
+ }
+
+ .topnav #myLinks {
+  display: none;
+ }
+
+ .topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  background: #ff9933;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.topnav a:hover {
+  background-color: #ffb366;
+  color:#804000;
+}
+
+.active {
+  background-color:  #ff8000;
+  color: white;
+}
+#section2 {
+background-color:#ffcc99 ;
+}
+#section3 {
+background-color:#ffd9b3 ;  
+}
+#section4 {
+  background-color:#ffbf80 ;
+}
+#section5 {
+  background-color: #ffd9b3  ;
+}
+#section6 {
+ background-color:	 #ffcc99 ; 
+}
+#section7{
+ background-color:#ffd9b3 ; 
+}
+#section8 {
+  background-color:#ffbf80 ;
+}
